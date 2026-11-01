@@ -16,5 +16,6 @@ http://peach.whatbox.ca:12232/stream/converge/kapamilyachannelhd/master.m3u8?u=F
 #KODIPROP:inputstream.adaptive.license_key=02b0d6aa78d547af890c9e27113e81af:890160f8ece56b8cd232889acb74e276
 https://abslive.akamaized.net/dash/live/2027618/pinoybigbrothercollabedition30live/manifest.mpd
 #EXTINF:-1,PBB
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=02b0d6aa78d547af890c9e27113e81af:890160f8ece56b8cd232889acb74e276
 https://abslive.akamaized.net/dash/live/2027618/pinoybigbrothercollabedition30live/manifest.mpd
