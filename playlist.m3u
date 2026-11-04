@@ -15,7 +15,3 @@ http://peach.whatbox.ca:12232/stream/converge/kapamilyachannelhd/master.m3u8?u=F
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=02b0d6aa78d547af890c9e27113e81af:890160f8ece56b8cd232889acb74e276
 https://abslive.akamaized.net/dash/live/2027618/pinoybigbrothercollabedition30live/manifest.mpd
-#EXTINF:-1 tvg-name="AL JAZEERA",CONVERGE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=46b3dec4633d43cc977a909f3b052797:50e4bebef6f870b3b55bf62b3ffa3c1e
-https://absp-live.akamaized.net/dash/live/2099522/aljazeera/manifest.mpd
