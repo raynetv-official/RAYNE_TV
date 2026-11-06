@@ -11,7 +11,7 @@ http://peach.whatbox.ca:12232/stream/converge/aliw23/master.m3u8?u=FiliTVUnpaid&
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Tlc2/default/manifest.mpd
 #EXTINF:-1 tvg-id="Kapamilya.ph" tvg-name="Kapamilya" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Kapamilya_Channel_hd_flat_latest.png/revision/latest?cb=20240502124554" group-title="PHILIPPINES",KAPAMILYA
 http://peach.whatbox.ca:12232/stream/converge/kapamilyachannelhd/master.m3u8?u=FiliTVUnpaid&p=656d3abf8ba691e8c86bbbf696027d238d322c4e4844b1bf20b5d186d724c2ed
-#EXTINF:-1 tvg-id="pbb.ph" tvg-name="PBB" tvg-logo="https://i.ibb.co/tMNv7V4y/Pinoy-Big-Brother-Logo.png" group-title="PHILIPPINES",Pinoy Big Brother
+#EXTINF:-1 tvg-id="pbb.ph" tvg-name="PBB" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/3/36/Pinoy_Big_Brother_Collab_3.0_title_card.jpg/250px-Pinoy_Big_Brother_Collab_3.0_title_card.jpg" group-title="PHILIPPINES",Pinoy Big Brother
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=02b0d6aa78d547af890c9e27113e81af:890160f8ece56b8cd232889acb74e276
 https://abslive.akamaized.net/dash/live/2027618/pinoybigbrothercollabedition30live/manifest.mpd
