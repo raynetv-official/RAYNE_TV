@@ -8,68 +8,6 @@ http://peach.whatbox.ca:12232/stream/converge/aliw23/master.m3u8?u=FiliTVUnpaid&
 #EXTINF:-1 tvg-id="Kapamilya.ph" tvg-name="Kapamilya" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Kapamilya_Channel_hd_flat_latest.png/revision/latest?cb=20240502124554" group-title="PHILIPPINES",KAPAMILYA
 http://peach.whatbox.ca:12232/stream/converge/kapamilyachannelhd/master.m3u8?u=FiliTVUnpaid&p=656d3abf8ba691e8c86bbbf696027d238d322c4e4844b1bf20b5d186d724c2ed
 
-#EXTINF:-1 tvg-id="AtlantaHawks.nba" tvg-name="ATLANTA HAWKS" tvg-logo="https://images.vexels.com/media/users/3/129260/isolated/preview/8cc957ea29f8a0f2f48cbba08afcb901-atlanta-hawks-logo-by-vexels.png" group-title="NBA TEAMS",ATLANTA HAWKS
-http://hardcoremedia.xyz:80/live/cgYH9gdj4/DCpFQXtyao/33310.m3u8
-#EXTINF:-1 tvg-id="BostonCeltics.nba" tvg-name="BOSTON CELTICS" tvg-logo="https://assets.stickpng.com/images/58419c6aa6515b1e0ad75a61.png" group-title="NBA TEAMS",BOSTON CELTICS
-http://hardcoremedia.xyz:80/live/cgYH9gdj4/DCpFQXtyao/33311.m3u8
-#EXTINF:-1 tvg-id="BrooklynNets.nba" tvg-name="BROOKLYN NETS" tvg-logo="https://i.pinimg.com/originals/9f/66/d0/9f66d02922e70e996467a44c5700900d.png" group-title="NBA TEAMS",BROOKLYN NETS
-http://hardcoremedia.xyz:80/live/cgYH9gdj4/DCpFQXtyao/33312.m3u8
-#EXTINF:-1 tvg-id="CharlotteHornets.nba" tvg-name="CHARLOTTE HORNETS" tvg-logo="https://assets.stickpng.com/images/58419bd7a6515b1e0ad75a57.png" group-title="NBA TEAMS",CHARLOTTE HORNETS
-http://hardcoremedia.xyz:80/live/cgYH9gdj4/DCpFQXtyao/33313.m3u8
-#EXTINF:-1 tvg-id="ChicagoBulls.nba" tvg-name="CHICAGO BULLS" tvg-logo="https://assets.stickpng.com/images/58419cf6a6515b1e0ad75a6b.png" group-title="NBA TEAMS",CHICAGO BULLS
-http://hardcoremedia.xyz:80/live/cgYH9gdj4/DCpFQXtyao/33314.m3u8
-#EXTINF:-1 tvg-id="ClevelandCavaliers.nba" tvg-name="CLEVELAND CAVALIERS" tvg-logo="https://assets.stickpng.com/images/58419c8da6515b1e0ad75a63.png" group-title="NBA TEAMS",CLEVELAND CAVALIERS
-http://hardcoremedia.xyz:80/live/cgYH9gdj4/DCpFQXtyao/33315.m3u8
-#EXTINF:-1 tvg-id="DallasMavericks.nba" tvg-name="DALLAS MAVERICKS" tvg-logo="https://assets.stickpng.com/images/58419cd6a6515b1e0ad75a68.png" group-title="NBA TEAMS",DALLAS MAVERICKS
-http://hardcoremedia.xyz:80/live/cgYH9gdj4/DCpFQXtyao/33316.m3u8
-#EXTINF:-1 tvg-id="DenverNuggets.nba" tvg-name="DENVER NUGGETS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Denver_Nuggets.svg/1200px-Denver_Nuggets.svg.png" group-title="NBA TEAMS",DENVER NUGGETS
-http://hardcoremedia.xyz:80/live/cgYH9gdj4/DCpFQXtyao/33317.m3u8
-#EXTINF:-1 tvg-id="DetroitPistons.nba" tvg-name="DETROIT PISTONS" tvg-logo="http://undergroundservice.xyz:8080/images/96e726068a0186d13cf031926f493c50.png" group-title="NBA TEAMS",DETROIT PISTONS
-http://hardcoremedia.xyz:80/live/cgYH9gdj4/DCpFQXtyao/33318.m3u8
-#EXTINF:-1 tvg-id="GoldenStateWarriors.nba" tvg-name="GOLDEN STATE WARRIORS" tvg-logo="https://assets.stickpng.com/images/58419ce2a6515b1e0ad75a69.png" group-title="NBA TEAMS",GOLDEN STATE WARRIORS
-http://hardcoremedia.xyz:80/live/cgYH9gdj4/DCpFQXtyao/33319.m3u8
-#EXTINF:-1 tvg-id="HoustonRockets.nba" tvg-name="HOUSTON ROCKETS" tvg-logo="https://assets.stickpng.com/images/58419ceda6515b1e0ad75a6a.png" group-title="NBA TEAMS",HOUSTON ROCKETS
-http://hardcoremedia.xyz:80/live/cgYH9gdj4/DCpFQXtyao/33320.m3u8
-#EXTINF:-1 tvg-id="IndianaPacers.nba" tvg-name="INDIANA PACERS" tvg-logo="https://assets.stickpng.com/images/58419b8da6515b1e0ad75a52.png" group-title="NBA TEAMS",INDIANA PACERS
-http://hardcoremedia.xyz:80/live/cgYH9gdj4/DCpFQXtyao/33321.m3u8
-#EXTINF:-1 tvg-id="LosAngelesClippers.nba" tvg-name="LOS ANGELES CLIPPERS" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/los-angeles-clippers-logo-transparent.png" group-title="NBA TEAMS",LOS ANGELES CLIPPERS
-http://hardcoremedia.xyz:80/live/cgYH9gdj4/DCpFQXtyao/33322.m3u8
-#EXTINF:-1 tvg-id="LosAngelesLakers.nba" tvg-name="LOS ANGELES LAKERS" tvg-logo="https://assets.stickpng.com/images/58419d0aa6515b1e0ad75a6c.png" group-title="NBA TEAMS",LOS ANGELES LAKERS
-http://hardcoremedia.xyz:80/live/cgYH9gdj4/DCpFQXtyao/33323.m3u8
-#EXTINF:-1 tvg-id="MemphisGrizzlies.nba" tvg-name="MEMPHIS GRIZZLIES" tvg-logo="https://assets.stickpng.com/images/58419c00a6515b1e0ad75a5a.png" group-title="NBA TEAMS",MEMPHIS GRIZZLIES
-http://hardcoremedia.xyz:80/live/cgYH9gdj4/DCpFQXtyao/33324.m3u8
-#EXTINF:-1 tvg-id="MiamiHeat.nba" tvg-name="MIAMI HEAT" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/miami-heat-logo-transparent.png" group-title="NBA TEAMS",MIAMI HEAT
-http://hardcoremedia.xyz:80/live/cgYH9gdj4/DCpFQXtyao/33325.m3u8
-#EXTINF:-1 tvg-id="MilwaukeeBucks.nba" tvg-name="MILWAUKEE BUCKS" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/milwaukee-bucks-logo-transparent.png" group-title="NBA TEAMS",MILWAUKEE BUCKS
-http://hardcoremedia.xyz:80/live/cgYH9gdj4/DCpFQXtyao/33326.m3u8
-#EXTINF:-1 tvg-id="MinnesotaTimberwolves.nba" tvg-name="MINNESOTA TIMBERWOLVES" tvg-logo="https://assets.stickpng.com/images/58419bc5a6515b1e0ad75a56.png" group-title="NBA TEAMS",MINNESOTA TIMBERWOLVES
-http://hardcoremedia.xyz:80/live/cgYH9gdj4/DCpFQXtyao/33327.m3u8
-#EXTINF:-1 tvg-id="NewOrleansPelicans.nba" tvg-name="NEW ORLEANS PELICANS" tvg-logo="https://assets.stickpng.com/images/58419b9ba6515b1e0ad75a53.png" group-title="NBA TEAMS",NEW ORLEANS PELICANS
-http://hardcoremedia.xyz:80/live/cgYH9gdj4/DCpFQXtyao/33328.m3u8
-#EXTINF:-1 tvg-id="NewYorkKnicks.nba" tvg-name="NEW YORK KNICKS" tvg-logo="https://assets.stickpng.com/images/58419cc8a6515b1e0ad75a67.png" group-title="NBA TEAMS",NEW YORK KNICKS
-http://hardcoremedia.xyz:80/live/cgYH9gdj4/DCpFQXtyao/33329.m3u8
-#EXTINF:-1 tvg-id="OklahomaCityThunder.nba" tvg-name="OKLAHOMA CITY THUNDER" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/oklahoma-city-thunder-logo-transparent.png" group-title="NBA TEAMS",OKLAHOMA CITY THUNDER
-http://hardcoremedia.xyz:80/live/cgYH9gdj4/DCpFQXtyao/33330.m3u8
-#EXTINF:-1 tvg-id="OrlandoMagic.nba" tvg-name="ORLANDO MAGIC" tvg-logo="https://assets.stickpng.com/images/58419b7da6515b1e0ad75a51.png" group-title="NBA TEAMS",ORLANDO MAGIC
-http://hardcoremedia.xyz:80/live/cgYH9gdj4/DCpFQXtyao/33331.m3u8
-#EXTINF:-1 tvg-id="Philadelphia76ers.nba" tvg-name="PHILADELPHIA 76ERS" tvg-logo="https://assets.stickpng.com/images/58419ca3a6515b1e0ad75a64.png" group-title="NBA TEAMS",PHILADELPHIA 76ERS
-http://hardcoremedia.xyz:80/live/cgYH9gdj4/DCpFQXtyao/33332.m3u8
-#EXTINF:-1 tvg-id="PhoenixSuns.nba" tvg-name="PHOENIX SUNS" tvg-logo="https://assets.stickpng.com/images/58419d52a6515b1e0ad75a6d.png" group-title="NBA TEAMS",PHOENIX SUNS
-http://hardcoremedia.xyz:80/live/cgYH9gdj4/DCpFQXtyao/33333.m3u8
-#EXTINF:-1 tvg-id="PortlandTrailBlazers.nba" tvg-name="PORTLAND TRAIL BLAZERS" tvg-logo="https://assets.stickpng.com/images/58419c2fa6515b1e0ad75a5d.png" group-title="NBA TEAMS",PORTLAND TRAIL BLAZERS
-http://hardcoremedia.xyz:80/live/cgYH9gdj4/DCpFQXtyao/33334.m3u8
-#EXTINF:-1 tvg-id="SacramentoKings.nba" tvg-name="SACRAMENTO KINGS" tvg-logo="http://undergroundservice.xyz:8080/images/8ae4d7170d3dbe28535509ba1aacdddb.png" group-title="NBA TEAMS",SACRAMENTO KINGS
-http://hardcoremedia.xyz:80/live/cgYH9gdj4/DCpFQXtyao/33335.m3u8
-#EXTINF:-1 tvg-id="SanAntonioSpurs.nba" tvg-name="SAN ANTONIO SPURS" tvg-logo="https://assets.stickpng.com/images/58419cbca6515b1e0ad75a66.png" group-title="NBA TEAMS",SAN ANTONIO SPURS
-http://hardcoremedia.xyz:80/live/cgYH9gdj4/DCpFQXtyao/33336.m3u8
-#EXTINF:-1 tvg-id="TorontoRaptors.nba" tvg-name="TORONTO RAPTORS" tvg-logo="https://assets.stickpng.com/images/58419bf3a6515b1e0ad75a59.png" group-title="NBA TEAMS",TORONTO RAPTORS
-http://hardcoremedia.xyz:80/live/cgYH9gdj4/DCpFQXtyao/33337.m3u8
-#EXTINF:-1 tvg-id="UtahJazz.nba" tvg-name="UTAH JAZZ" tvg-logo="https://assets.stickpng.com/images/58419bb6a6515b1e0ad75a55.png" group-title="NBA TEAMS",UTAH JAZZ
-http://hardcoremedia.xyz:80/live/cgYH9gdj4/DCpFQXtyao/33338.m3u8
-#EXTINF:-1 tvg-id="WashingtonWizards.nba" tvg-name="WASHINGTON WIZARDS" tvg-logo="https://assets.stickpng.com/images/58419c12a6515b1e0ad75a5b.png" group-title="NBA TEAMS",WASHINGTON WIZARDS
-http://hardcoremedia.xyz:80/live/cgYH9gdj4/DCpFQXtyao/33339.m3u8
-
-
 #EXTINF:-1 tvg-id="BBC Lifestyle" tvg-logo="https://cms.bbcasia.com/sites/default/files/2021-05/Lifestyle.jpg" group-title="Cignal",BBC Lifestyle
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=34880f56627c11ee8c990242ac120002:c23677c829bb244b79a3dc09ffd88ca0
