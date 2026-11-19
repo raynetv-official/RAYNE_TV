@@ -5,8 +5,6 @@ http://santol.whatbox.ca:12232/stream/converge/alltv/master.m3u8?u=FiliTVUnpaid&
 http://peach.whatbox.ca:12232/stream/converge/aliw23/master.m3u8?u=FiliTVUnpaid&p=656d3abf8ba691e8c86bbbf696027d238d322c4e4844b1bf20b5d186d724c2ed
 #EXTINF:-1 tvg-id="Kapamilya.ph" tvg-name="Kapamilya" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Kapamilya_Channel_hd_flat_latest.png/revision/latest?cb=20240502124554" group-title="PHILIPPINES",KAPAMILYA
 http://peach.whatbox.ca:12232/stream/converge/kapamilyachannelhd/master.m3u8?u=FiliTVUnpaid&p=656d3abf8ba691e8c86bbbf696027d238d322c4e4844b1bf20b5d186d724c2ed
-tatic.mytuner.mobi/media/tvos_radios/252/dwft-fm2-1043.4099fc68.png" group-title="Radio Stations PH",104.3 Capital FM2
-http://122.53.138.32:8000/dwbr.mp3
 
 #EXTINF:-1 tvg-id="BBC Lifestyle" tvg-logo="https://cms.bbcasia.com/sites/default/files/2021-05/Lifestyle.jpg" group-title="CIGNAL",BBC Lifestyle
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -696,4 +694,5 @@ https://tls.radyoph.com/secure.php?token=e65da9db216c01cc4bb7de86cdafc78f
 https://stream.zeno.fm/69b1kf7q0y5tv
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/224/1035-k-lite.e3e0d2a2.png" group-title="Radio Stations PH",103.5 All Radio
 http://103.36.17.18:8000/stream
-#EXTINF:-1 tvg-logo="https://s
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/252/dwft-fm2-1043.4099fc68.png" group-title="Radio Stations PH",104.3 Capital FM2
+http://122.53.138.32:8000/dwbr.mp3
