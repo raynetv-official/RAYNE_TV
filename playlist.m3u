@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/raynetv-official/RAYNE-TV-EPG/refs/heads/main/epg.xml"
 #EXTINF:-1 tvg-id="alltv.ph" tvg-name="ALL TV" tvg-logo="https://alltv.ph/wp-content/uploads/2024/06/LOGO-ALLTV-NEW.png" group-title="2.PHILIPPINES CHANNEL",ALL TV
 http://santol.whatbox.ca:12232/stream/converge/alltv/master.m3u8?u=FiliTVUnpaid&p=656d3abf8ba691e8c86bbbf696027d238d322c4e4844b1bf20b5d186d724c2ed
 #EXTINF:-1 tvg-id="aliw.ph" tvg-name="ALIW23" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/master/countries/philippines/aliw-channel-23-ph.png" group-title="2.PHILIPPINES CHANNEL",ALIW23
