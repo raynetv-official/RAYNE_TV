@@ -193,65 +193,6 @@ https://ucdn.mediaquest.com.ph/bpk-tv/depedch_sd/default/index.mpd
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_historyhd/default/index.mpd
 #EXTINF:-1 tvg-id="fashiontvhd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9D06-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="3.CIGNAL [1]",Fashion TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c8a4e6917f324d05b9186c5e3a2f7049:92b4ece8c84379145045267b47f183d2
-https://ucdn.mediaquest.com.ph/bpk-tv/fashiontvhd/default/index.mpd
-#EXTINF:-1 tvg-id="bloomberg_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AA47C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="3.CIGNAL [1]",Bloomberg
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=19f6c8325a744d90b2618e3f7c2a5049:784fffb38dc4fb6d5b74de822074feb4
-https://ucdn.mediaquest.com.ph/bpk-tv/bloomberg_sd/default/index.mpd
-#EXTINF:-1 tvg-id="dr_nhk_japan" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AA896-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="3.CIGNAL [1]",NHK Japan
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a3d7f5916c824e09b2158a5c3f7d2046:32d760047f05c233d9dae35083fe0b30
-https://ucdn.mediaquest.com.ph/bpk-tv/dr_nhk_japan/default/index.mpd
-#EXTINF:-1 tvg-id="asianfoodnetwork_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AB020-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="3.CIGNAL [1]",Asian Food Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f4b7c8219e364a058d295c6f3e7a1042:d10c7f2a37c1079e6b83837423c0d6b2
-https://ucdn.mediaquest.com.ph/bpk-tv/asianfoodnetwork_sd/default/index.mpd
-#EXTINF:-1 tvg-id="cg_onesports_hd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AB750-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="3.CIGNAL [1]",One Sports HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69f5a2318d744c609b125e3a7d8f2046:182523c0bae912e17e916dd4283280e9
-https://ucdn.mediaquest.com.ph/bpk-tv/cg_onesports_hd/default/index.mpd
-#EXTINF:-1 tvg-id="dr_nickjr" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AB8E0-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="3.CIGNAL [1]",Nick Jr
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ca7e5b318d624f099c246a3e7d5f8140:3175f0646c504fad87e97c7677a85393
-https://ucdn.mediaquest.com.ph/bpk-tv/dr_nickjr/default/index.mpd
-#EXTINF:-1 tvg-id="cg_warnerhd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ABA02-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="3.CIGNAL [1]",Warner TV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c4a8d5319e624f078b156d3c7a5e2049:cee9422b4a40d85589f36f1d76fb144f
-https://ucdn.mediaquest.com.ph/bpk-tv/cg_warnerhd/default/index.mpd
-#EXTINF:-1 tvg-id="cg_animax_sd_new" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ABB06-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="3.CIGNAL [1]",Animax
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7d3f5916c844b209e158f3a7d5c2046:021fe5515e7dfb1a00a98d51abd0cb7f
-https://ucdn.mediaquest.com.ph/bpk-tv/cg_animax_sd_new/default/index.mpd
-#EXTINF:-1 tvg-id="ibc13_sd_new" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ABC0A-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="3.CIGNAL [1]",IBC 13
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f4a8d6216c954e709b187d3a5f2c8049:34710df996a4089ee6f7e8deb7f46586
-https://ucdn.mediaquest.com.ph/bpk-tv/ibc13_sd_new/default/index.mpd
-#EXTINF:-1 tvg-id="cg_axn_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AC36C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="3.CIGNAL [1]",AXN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7e5a2199d644b318f702a6c4e5d8139:300778996b5a71594db508982256f365
-https://ucdn.mediaquest.com.ph/bpk-tv/cg_axn_sd/default/index.mpd
-#EXTINF:-1 tvg-id="cg_tapmovies_hd1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AC48E-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="3.CIGNAL [1]",TAP Movies HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=65d8c4912f734a90b8163e7c5d9a2041:fd495b984013da4e26f83b1a921c0a15
-https://ucdn.mediaquest.com.ph/bpk-tv/cg_tapmovies_hd1/default/index.mpd
-#EXTINF:-1 tvg-id="cg_moonbug_kids_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AC696-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="3.CIGNAL [1]",Moonbug Kids
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=48e7d3219c564f80b2147a5d3e6c2048:23a7b41054c60983ad020652f7ffa06e
-https://ucdn.mediaquest.com.ph/bpk-tv/cg_moonbug_kids_sd/default/index.mpd
-#EXTINF:-1 tvg-id="france24" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AC9B6-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="3.CIGNAL [1]",France 24
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=92d8f3416c754b09a2187e5d3a9c6042:4e668d238bc656b7d2c7535757aa9531
-https://ucdn.mediaquest.com.ph/bpk-tv/france24/default/index.mpd
-#EXTINF:-1 tvg-id="hits_movies" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ACF06-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="3.CIGNAL [1]",Hits Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45c9e7328b614d059f247a6c3e5d1048:13ef5feae7c84eb06bcc655a225fb01d
-https://ucdn.mediaquest.com.ph/bpk-tv/hitsmovies/default/index.mpd
-#EXTINF:-1 tvg-id="channelnewsasia" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AD122-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="3.CIGNAL [1]",Channel NewsAsia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56d8c4917a234e60b9159f3a6c7d2048:e6f0a100b6a2fcda66e8554f8c9b510b
-https://ucdn.mediaquest.com.ph/bpk-tv/channelnewsasia/default/index.mpd
-#EXTINF:-1 tvg-id="cg_thrill_sd" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AD230-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" group-title="3.CIGNAL [1]",Thrill
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZxXb6Zk.png" group-title="4.CONVERGE [1]",Kapamilya Channel HD
